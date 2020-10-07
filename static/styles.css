@@ -1,0 +1,59 @@
+body{
+	font:15px/1.5 Arial, Helvetica,sans-serif;
+	background-color:#fff;
+	margin: 0;
+}
+
+
+.container-title{
+	text-align: center;
+	background-color: #f37021;
+	padding: 15px 0px;
+	width:100%;
+	overflow: hidden;
+}
+
+
+.logo img{
+	padding: 20px 10px;
+	margin: 0 auto;
+	display: block;
+	max-width: 200px;
+}
+
+header{
+	width:100%;
+}
+
+.main-header{
+			text-align:center;
+			background-color: red;
+			height:100px;
+			width:100%;
+			margin:0px;
+		}
+
+header h2{
+	text-align:center;
+	color:#fff;
+
+}
+
+.btn-info {
+	margin: 10px;
+	font-size: 15px;
+	color: #fff;
+	letter-spacing: 0.5px;
+	font-weight: bold;
+	background-color: #f37021;
+	height:40px;
+	width:100px;
+	border: 2px solid #f37021;
+	transition: all 0.3s;
+	border-radius: 4px;
+}
+.btn-info:hover {
+	color: #f37021;
+	transition: all 0.3s;
+	background: #fff;
+}
